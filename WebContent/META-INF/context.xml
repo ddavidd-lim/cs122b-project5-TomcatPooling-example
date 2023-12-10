@@ -10,5 +10,5 @@
               type="javax.sql.DataSource"
               username="mytestuser"
               password="My6$Password"
-              url="jdbc:mysql://54.183.199.133:8080/moviedbexample?autoReconnect=true&amp;allowPublicKeyRetrieval=true&amp;useSSL=false"/>
+              url="jdbc:mysql://localhost:3306/moviedbexample?autoReconnect=true&amp;allowPublicKeyRetrieval=true&amp;useSSL=false"/>
 </Context>
